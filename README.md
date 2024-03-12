@@ -1,5 +1,5 @@
 # ARIHA
-**A**utomated and **R**andom **I**mage for **H**uman **A**uthentication.
+__**A**__utomated and __**R**__andom __**I**__mage for __**H**__uman __**A**__uthentication.
 
 Like CAPTCHA,
 But more better.
